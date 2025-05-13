@@ -64,7 +64,7 @@
     "@trpc/client": "10.4.3",
     "@trpc/next": "10.4.3",
     "@trpc/react-query": "10.4.3",
-    "@trpc/server": "10.4.3",
+    "@trpc/server": "11.1.1",
     "@typeform/embed-react": "^2.11.0",
     "@videojs/http-streaming": "^2.15.1",
     "@xstate/react": "^1.5.1",
